@@ -1,18 +1,22 @@
-# List of Resources Template
+# Technical Topics
 
 <a href="https://github.com/VasileUngureanu/repository-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 
-> A template for creating new repositories in the form of a list of resources
-
-There are hundreds and thousands of resources on the internet for this topic, but only a few of them have a high concentration of valuable content.
+> A list of Technical Topics
 
 ## Contents
 
-* []()
+* [Ways of Working](https://github.com/VasileUngureanu/ways-of-working)
+* [Functional Programming](https://github.com/VasileUngureanu/functional-programming)
+* [Technical Debt](https://github.com/VasileUngureanu/technical-debt)
+* [Code Review](https://github.com/VasileUngureanu/code-review)
+* [Pair Programming](https://github.com/VasileUngureanu/pair-programming)
+* [Technical Blogging](https://github.com/VasileUngureanu/technical-blogging)
+* [User Story](https://github.com/VasileUngureanu/user-story)
+* [Code Comments](https://github.com/VasileUngureanu/code-comments)
 
 ## Usage
 
-1. [Creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template).
 1. After local cloning run `./bootstrap.sh`.
 
 License
