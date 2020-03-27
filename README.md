@@ -15,6 +15,44 @@
 * [User Story](https://github.com/VasileUngureanu/user-story)
 * [Code Comments](https://github.com/VasileUngureanu/code-comments)
 
+## TODO
+
+* Trunk Based Development
+* Extreme Programming (XP)
+* Names
+* Feature Flags
+* Finite State Machine
+* Unidirectional Architecture
+* Reactive Programming
+* Continuous Integration, Delivery, and Deployment (CI/CD/CD)
+* Computer Science (CS)
+* Remote Work
+* Domain-Driven Design (DDD)
+* Refactoring
+* Cryptography
+* Technical Books
+* Versioning
+* Git
+* Command Line (CMD)
+* Abstraction
+* Object-Oriented Programming (OOP)
+* Estimation
+* Developer Productivity
+* Concurrency
+* Dependency Injection (DI)
+* Kotlin Script
+* Product over Project
+* Agile Technical Coach
+* Testing
+* TDD
+* Simple Design
+* Behaviour-Driven Development (BDD)
+* Types
+* Katas
+* Domain Modeling
+* Mix
+* Android DevOps
+
 ## Usage
 
 1. After local cloning run `./bootstrap.sh`.
