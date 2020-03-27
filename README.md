@@ -14,6 +14,7 @@
 * [Technical Blogging](https://github.com/VasileUngureanu/technical-blogging)
 * [User Story](https://github.com/VasileUngureanu/user-story)
 * [Code Comments](https://github.com/VasileUngureanu/code-comments)
+* [Git](https://github.com/VasileUngureanu/git)
 
 ## TODO
 
@@ -32,7 +33,6 @@
 * Cryptography
 * Technical Books
 * Versioning
-* Git
 * Command Line (CMD)
 * Abstraction
 * Object-Oriented Programming (OOP)
