@@ -16,6 +16,7 @@
 * [Code Comments](https://github.com/VasileUngureanu/code-comments)
 * [Git](https://github.com/VasileUngureanu/git)
 * [Android DevOps](https://github.com/VasileUngureanu/android-devops)
+* [Android Development at Scale](https://github.com/VasileUngureanu/android-development-at-scale)
 
 ## TODO
 
