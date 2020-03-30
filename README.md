@@ -53,6 +53,8 @@
 * Katas
 * Domain Modeling
 * Mix
+* TCR
+* Interviewing
 
 ## Usage
 
