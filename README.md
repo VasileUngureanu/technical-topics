@@ -15,6 +15,7 @@
 * [User Story](https://github.com/VasileUngureanu/user-story)
 * [Code Comments](https://github.com/VasileUngureanu/code-comments)
 * [Git](https://github.com/VasileUngureanu/git)
+* [Android DevOps](https://github.com/VasileUngureanu/android-devops)
 
 ## TODO
 
@@ -51,7 +52,6 @@
 * Katas
 * Domain Modeling
 * Mix
-* Android DevOps
 
 ## Usage
 
