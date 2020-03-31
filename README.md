@@ -17,6 +17,7 @@
 * [Git](https://github.com/VasileUngureanu/git)
 * [Android DevOps](https://github.com/VasileUngureanu/android-devops)
 * [Android Development at Scale](https://github.com/VasileUngureanu/android-development-at-scale)
+* [Command Line](https://github.com/VasileUngureanu/command-line)
 
 ## TODO
 
@@ -35,7 +36,6 @@
 * Cryptography
 * Technical Books
 * Versioning
-* Command Line (CMD)
 * Abstraction
 * Object-Oriented Programming (OOP)
 * Estimation
