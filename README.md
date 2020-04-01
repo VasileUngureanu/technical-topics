@@ -18,6 +18,7 @@
 * [Android DevOps](https://github.com/VasileUngureanu/android-devops)
 * [Android Development at Scale](https://github.com/VasileUngureanu/android-development-at-scale)
 * [Command Line](https://github.com/VasileUngureanu/command-line)
+* [Product over Project](https://github.com/VasileUngureanu/product-over-project)
 
 ## TODO
 
@@ -43,7 +44,6 @@
 * Concurrency
 * Dependency Injection (DI)
 * Kotlin Script
-* Product over Project
 * Agile Technical Coach
 * Testing
 * TDD
