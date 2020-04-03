@@ -19,6 +19,7 @@
 * [Android Development at Scale](https://github.com/VasileUngureanu/android-development-at-scale)
 * [Command Line](https://github.com/VasileUngureanu/command-line)
 * [Product over Project](https://github.com/VasileUngureanu/product-over-project)
+* [JUnit 5](https://github.com/VasileUngureanu/junit5)
 
 ## Usage
 
