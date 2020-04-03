@@ -20,42 +20,6 @@
 * [Command Line](https://github.com/VasileUngureanu/command-line)
 * [Product over Project](https://github.com/VasileUngureanu/product-over-project)
 
-## TODO
-
-* Trunk Based Development
-* Extreme Programming (XP)
-* Names
-* Feature Flags
-* Finite State Machine
-* Unidirectional Architecture
-* Reactive Programming
-* Continuous Integration, Delivery, and Deployment (CI/CD/CD)
-* Computer Science (CS)
-* Remote Work
-* Domain-Driven Design (DDD)
-* Refactoring
-* Cryptography
-* Technical Books
-* Versioning
-* Abstraction
-* Object-Oriented Programming (OOP)
-* Estimation
-* Developer Productivity
-* Concurrency
-* Dependency Injection (DI)
-* Kotlin Script
-* Agile Technical Coach
-* Testing
-* TDD
-* Simple Design
-* Behaviour-Driven Development (BDD)
-* Types
-* Katas
-* Domain Modeling
-* Mix
-* TCR
-* Interviewing
-
 ## Usage
 
 1. After local cloning run `./bootstrap.sh`.
