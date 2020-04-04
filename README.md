@@ -21,6 +21,7 @@
 * [Product over Project](https://github.com/VasileUngureanu/product-over-project)
 * [JUnit 5](https://github.com/VasileUngureanu/junit5)
 * [List of Katas](https://github.com/VasileUngureanu/list-of-katas)
+* [Domain-Driven Design](https://github.com/VasileUngureanu/domain-driven-design)
 
 ## Usage
 
