@@ -20,6 +20,7 @@
 * [Command Line](https://github.com/VasileUngureanu/command-line)
 * [Product over Project](https://github.com/VasileUngureanu/product-over-project)
 * [JUnit 5](https://github.com/VasileUngureanu/junit5)
+* [List of Katas](https://github.com/VasileUngureanu/list-of-katas)
 
 ## Usage
 
