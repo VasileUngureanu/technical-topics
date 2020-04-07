@@ -25,6 +25,7 @@
 * [Technical Agile Coaching](https://github.com/VasileUngureanu/technical-agile-coaching)
 * [Testing](https://github.com/VasileUngureanu/testing)
 * [Test-Driven Development](https://github.com/VasileUngureanu/test-driven-development)
+* [Software Development](https://github.com/VasileUngureanu/software-design)
 
 ## Usage
 
