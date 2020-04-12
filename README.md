@@ -28,6 +28,7 @@
 * [Software Design](https://github.com/VasileUngureanu/software-design)
 * [Software Craftsmanship](https://github.com/VasileUngureanu/software-craftsmanship)
 * [Extreme Programming](https://github.com/VasileUngureanu/extreme-programming)
+* [Computer Science](https://github.com/VasileUngureanu/computer-science)
 
 ## Usage
 
