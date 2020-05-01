@@ -30,6 +30,7 @@
 * [Extreme Programming](https://github.com/VasileUngureanu/extreme-programming)
 * [Computer Science](https://github.com/VasileUngureanu/computer-science)
 * [Event Storming](https://github.com/VasileUngureanu/event-storming)
+* [Test && Commit || Revert](https://github.com/VasileUngureanu/test-commit-revert)
 
 ## Usage
 
