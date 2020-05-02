@@ -2,7 +2,7 @@
 
 <a href="https://github.com/VasileUngureanu/repository-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 
-> A list of Software Development Resources
+> A list of Software Development resources
 
 ## Contents
 
